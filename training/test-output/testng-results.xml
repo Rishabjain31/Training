@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[element not visible]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12398" started-at="2018-07-02T12:04:22Z" finished-at="2018-07-02T12:04:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12398" started-at="2018-07-02T12:04:22Z" finished-at="2018-07-02T12:04:35Z">
+      <class name="com.qait.automation.training.HrisTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.qait.automation.training.HrisTest@457e2f02]" name="launchBrowser" is-config="true" duration-ms="7077" started-at="2018-07-02T17:34:22Z" finished-at="2018-07-02T17:34:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="SecondCase()[pri:2, instance:com.qait.automation.training.HrisTest@457e2f02]" name="SecondCase" duration-ms="5296" started-at="2018-07-02T17:34:29Z" finished-at="2018-07-02T17:34:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[element not visible]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SecondCase -->
+      </class> <!-- com.qait.automation.training.HrisTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
